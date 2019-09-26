@@ -4,7 +4,7 @@ const bodyParser     = require('body-parser');
 const db             = require('./config/db');
 const app            = express();
 var   path 			 = require('path')
-const port = 8000;
+const port = 3000;
 app.use(bodyParser.urlencoded({ extended: true }), bodyParser.json());
 app.use(express.static(__dirname + '/images/'));
 app.use(express.static(__dirname + '/'));
