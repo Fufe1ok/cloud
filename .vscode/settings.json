@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/18983f61-a7b0-498e-beea-e122f8b7f028/resourceGroups/fufelok/providers/Microsoft.Web/sites/fufelok",
+    "appService.deploySubpath": ""
+}
